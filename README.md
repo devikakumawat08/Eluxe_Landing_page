@@ -1,4 +1,4 @@
-# 🎀 Eluxe - Premium Fashion Landing Page
+#  Eluxe - Premium Fashion Landing Page
 
 > A luxurious, responsive landing page for Eluxe - a premium women's fashion brand designed for the Indian market. Built with **Next.js**, **Tailwind CSS**, and **Vercel v0** for rapid UI component generation.
 
@@ -10,22 +10,22 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 Eluxe is a premium women's fashion brand landing page that combines **luxury aesthetics with Indian market sensibilities**. The design embraces royalty, elegance, and sophisticated minimalism inspired by Rajasthani palaces and Mughal architecture.
 
-### 🎯 Key Highlights
+###  Key Highlights
 
-✨ **9 Components Generated with Vercel v0**  
-🇮🇳 **India-Centric Design** - INR pricing, local payment methods  
-💎 **Luxury + Royalty Aesthetic** - Custom color palette inspired by Indian heritage  
-📱 **Fully Responsive** - Optimized for mobile, tablet, and desktop  
-♿ **WCAG 2.1 AA Accessible** - Semantic HTML, ARIA labels, keyboard navigation  
-⚡ **Production-Ready** - TypeScript, best practices, performance optimized  
+ **9 Components Generated with Vercel v0**  
+**India-Centric Design** - INR pricing, local payment methods  
+**Luxury + Royalty Aesthetic** - Custom color palette inspired by Indian heritage  
+**Fully Responsive** - Optimized for mobile, tablet, and desktop  
+ **WCAG 2.1 AA Accessible** - Semantic HTML, ARIA labels, keyboard navigation  
+ **Production-Ready** - TypeScript, best practices, performance optimized  
 
 ---
 
-## 🎨 Color Palette
+##  Color Palette
 
 Designed to evoke luxury, prosperity, and Indian royal heritage:
 
@@ -40,7 +40,7 @@ Designed to evoke luxury, prosperity, and Indian royal heritage:
 
 ---
 
-## 📦 Components (All V0 Generated)
+##  Components (All V0 Generated)
 
 ### Navigation & Layout
 - **Navbar** - Sticky header with brand logo, menu, and shopping cart
@@ -59,7 +59,7 @@ Designed to evoke luxury, prosperity, and Indian royal heritage:
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Core Features
 ✅ **9 Full Components** - All built with Vercel v0  
@@ -104,7 +104,7 @@ Designed to evoke luxury, prosperity, and Indian royal heritage:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 eluxe-landing-page/
@@ -138,7 +138,7 @@ eluxe-landing-page/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - **Node.js** 18+ installed
@@ -194,7 +194,7 @@ All components are fully responsive across devices:
 
 ---
 
-## 💰 INR Pricing
+##  INR Pricing
 
 All prices are displayed in Indian Rupees (₹):
 
@@ -214,22 +214,22 @@ const products = [
 
 ---
 
-## ♿ Accessibility Features
+##  Accessibility Features
 
-✅ **WCAG 2.1 AA Compliance**
+ **WCAG 2.1 AA Compliance**
 - 4.5:1 minimum contrast ratio
 - Semantic HTML structure
 - ARIA labels on interactive elements
 - Keyboard navigation support
 - Clear focus indicators
 
-✅ **Screen Reader Support**
+ **Screen Reader Support**
 - All images have descriptive alt text
 - Form inputs have associated labels
 - Landmarks properly marked
 - Link purposes clear
 
-✅ **Motor Accessibility**
+ **Motor Accessibility**
 - Large, easily clickable targets
 - Keyboard navigation throughout
 - No time-dependent interactions
@@ -253,11 +253,11 @@ All 9 components were efficiently generated using Vercel v0:
 9. **Footer** - Multi-column footer with social links
 
 ### V0 Benefits Used
-- ✅ **Rapid Generation** - 85% time savings on component development
-- ✅ **Best Practices** - Production-ready code with semantic HTML
-- ✅ **Responsive by Default** - Mobile-first approach built-in
-- ✅ **Accessibility** - WCAG standards included
-- ✅ **Type Safety** - TypeScript interfaces provided
+-  **Rapid Generation** - 85% time savings on component development
+-  **Best Practices** - Production-ready code with semantic HTML
+-  **Responsive by Default** - Mobile-first approach built-in
+-  **Accessibility** - WCAG standards included
+-  **Type Safety** - TypeScript interfaces provided
 
 ### Customizations Applied
 - Color palette integration (exact hex codes)
@@ -268,11 +268,11 @@ All 9 components were efficiently generated using Vercel v0:
 - Data structure implementation
 - Form validation logic
 
-**📖 For detailed V0 documentation, see [VERCEL_V0_DOCUMENTATION.md](VERCEL_V0_DOCUMENTATION.md)**
+** For detailed V0 documentation, see [VERCEL_V0_DOCUMENTATION.md](VERCEL_V0_DOCUMENTATION.md)**
 
 ---
 
-## 🎯 UI/UX Quality Metrics
+##  UI/UX Quality Metrics
 
 | Metric | Score | Details |
 |--------|-------|---------|
@@ -285,7 +285,7 @@ All 9 components were efficiently generated using Vercel v0:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Hero Section
 Beautiful gradient background with compelling headline and CTA button.
@@ -304,7 +304,7 @@ VIP member signup section with email validation.
 
 ---
 
-## 🔧 Customization Guide
+##  Customization Guide
 
 ### Modify Colors
 Edit `tailwind.config.ts`:
@@ -380,11 +380,11 @@ amplify publish
 ```
 
 ### Live Demo
-🔗 **[https://eluxe-landing-page.vercel.app](https://eluxe-landing-page.vercel.app)**
+ **(https://v0-eluxe-landing-page.vercel.app/)**
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 ### Browser Testing
 Tested and optimized for:
@@ -408,7 +408,7 @@ Tested and optimized for:
 
 ---
 
-## 📚 Learning Resources
+##  Learning Resources
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Guide](https://tailwindcss.com/docs)
@@ -419,7 +419,7 @@ Tested and optimized for:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is an educational assignment project. While contributions aren't expected, feedback and suggestions are welcome!
 
@@ -433,24 +433,24 @@ Free to use, modify, and distribute for personal and commercial projects.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**  
-Mechanical Engineering Student | IIITDM Jabalpur
+**Devika Kumawat**  
+B.Tech | IIITDM Jabalpur
 
-📧 **Email**: your.email@example.com  
-🔗 **GitHub**: [@yourprofile](https://github.com/yourprofile)  
-💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
+ **Email**: devikakumawat802@gmail.com  
+ **GitHub**: (https://github.com/devikakumawat08)  
+ **LinkedIn**: (https://www.linkedin.com/in/devika-kumawat-4b4416270/)  
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If this project helped you learn or inspired you, please give it a star! ⭐
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Vercel v0** - For rapid UI component generation
 - **Next.js Team** - For the amazing framework
@@ -459,13 +459,7 @@ If this project helped you learn or inspired you, please give it a star! ⭐
 
 ---
 
-## 📞 Contact & Support
 
-Have questions or feedback?
-
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Report an issue](https://github.com/YOUR_USERNAME/eluxe-landing-page/issues)
-- **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
@@ -488,14 +482,6 @@ Have questions or feedback?
 **Status**: Production Ready ✅  
 
 ---
-
-## 📖 Quick Links
-
-- [Live Demo](https://eluxe-landing-page.vercel.app)
-- [GitHub Repository](https://github.com/YOUR_USERNAME/eluxe-landing-page)
-- [Vercel v0 Documentation](./VERCEL_V0_DOCUMENTATION.md)
-- [Component Breakdown](#-components-all-v0-generated)
-- [Deployment Guide](#-deployment)
 
 ---
 
